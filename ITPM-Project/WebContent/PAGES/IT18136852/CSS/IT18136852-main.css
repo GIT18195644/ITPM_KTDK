@@ -1,0 +1,116 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #5DADE2;
+}
+
+
+areaBox {
+	width: 100%;
+	margin: 4px 2px;
+}
+
+textareaCode {
+	width: 50%;
+}
+
+textarea {
+	width: 96%;
+	height: 500px;
+	margin-left: 2%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 3px solid #5DADE2;
+	border-radius: 5px;
+	resize: none;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Century Gothic;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btnCheck {
+  width: 30%;
+  position: center;
+  background-color: #5DADE2;
+  color: #fff;
+}
+
+.btnReset {
+  width: 30.5%;
+  position: center;
+  background-color: #5DADE2;
+  color: #fff;
+}
+
+.btnChooseFile {
+  width: 30%;
+  margin-left: 3%;
+  position: center;
+  background-color: #5DADE2;
+  color: #fff;
+}
+
+.datatable {
+  width: 96%;
+  height: 300px;
+  margin-left: 2%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  background-color: #fff;
+  font-size: 16px;
+  color: #111;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #fff;
+}
+
+tr:hover {
+	background-color: #5DADE2;
+	color: #fff;
+}
+
