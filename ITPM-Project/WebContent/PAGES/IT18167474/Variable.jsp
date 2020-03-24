@@ -11,23 +11,9 @@
 <body>
 
 <ul>
-  <li><a class="active" href="#home">Method</a></li>
-  <li><a href="#news">Variable</a></li>
-  <li><a href="#contact">Size</a></li>
+  <li><a class="active" href="#home">Variables</a></li>
 </ul>
 <br>
-
-<div class="areaBox">
-	<div class="textareaCode">
-		<form>
-			<textarea id="code" name="code">Type Here...</textarea>
-			<br><br>
-		 	<input class="button btnChooseFile" type="file" id="myFile">
-			<button class="button btnCheck" type="submit" id="submit">Execute Program</button>
-		  	<button class="button btnReset" type="reset" id="reset">Clear</button>
-		</form>
-	</div>
-</div>
 
 <br>
 <div class="areaBox">
@@ -41,12 +27,6 @@
     				 <th>Wcdtv</th>	    
 					 <th>Ncdtv</th>	    
 					 <th>Cv</th>
-				</tr>
-				<tr>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
 				</tr>
 			</table>
 		</div>
