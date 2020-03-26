@@ -19,8 +19,9 @@
 <div class="areaBox">
 	<div class="textareaCode">
 		<div class="datatable">
-			<table>
+			<table>			
 				<tr>
+					<th>Line No</th>
 				    <th>Wkw</th>
 					<th>Nkw</th>
     				<th>Wid</th>
