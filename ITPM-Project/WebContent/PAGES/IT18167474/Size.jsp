@@ -21,7 +21,7 @@
 		<div class="datatable">
 			<table>			
 				<tr>
-					<th>Line No</th>
+					<th>LineNo</th>
 				    <th>Wkw</th>
 					<th>Nkw</th>
     				<th>Wid</th>
